@@ -1,4 +1,4 @@
-# Careers in Python: Volume 1
+# Careers with Python: Volume 1
 ### Level: Beginner
 
 ## Meetup description
