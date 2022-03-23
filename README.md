@@ -16,6 +16,12 @@ The presentation can be find [here](link). {The repo with code [here](link).}
 
 The presentation can be find [here](link). {The repo with code [here](link).}
 
+### Talk 3 - {Name of the talk}
+
+{Talk description}
+
+The presentation can be find [here](link). {The repo with code [here](link).}
+
 ## Video record
 Re-watch YouTube stream [here](link)
 
