@@ -2,7 +2,7 @@
 ### Level: Beginner
 
 ## Meetup description
-This meetup is all about {meetup topic description}.
+This meetup is the second volume of the "Careers with Python" series that aims to guide you through the various career paths and opportunities available to you as a Python developer
 
 ### Talk 1 - {Name of the talk}
 
