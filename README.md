@@ -23,7 +23,7 @@ During the talk you will get an overview of the types of projects that are commo
 The presentation can be find [here](link). 
 
 ## Video record
-Re-watch YouTube stream [here](link)
+Re-watch YouTube stream [here](https://youtu.be/1uHm3Ytpl64)
 
 ## Credits
 This event was set up by @pyladiesams, {Github handlers}
