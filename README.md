@@ -4,9 +4,9 @@
 ## Meetup description
 This meetup is the second volume of the "Careers with Python" series that aims to guide you through the various career paths and opportunities available to you as a Python developer
 
-### Talk 1 - {Name of the talk} by TBA
+### Talk 1 - Recruitment and Interview Tips for Python Developers by Rory Stahelin
 
-{Talk description TBA}
+I'll be providing recruitment insights into the Python market from a general overview, popular technologies and interview tips.
 
 The presentation can be find [here](link). 
 
