@@ -20,7 +20,7 @@ The presentation can be found [here](/presentations/data-engineering.pdf).
 
 During the talk you will get an overview of the types of projects that are common to educational science, in which Python, and more generally, Data Science with Python plays a role. You will also get some concrete examples on how Python is being used in ongoing research projects and the role it is increasingly playing in education.
 
-The presentation can be found [here](link). 
+The presentation can be found [here](/presentations/Python and Educational Sciences.pptx). 
 
 ## Video record
 Re-watch YouTube stream [here](https://youtu.be/1uHm3Ytpl64)
