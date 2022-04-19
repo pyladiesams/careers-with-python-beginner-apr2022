@@ -14,7 +14,7 @@ The presentation can be found [here](/presentations/Python_Talk_Recruitment.pptx
 
 In this talk we will discuss what is exactly data engineering and its applications, and the role Python plays in it.
 
-The presentation can be found [here](link). 
+The presentation can be found [here](/presentations/data-engineering.pdf). 
 
 ### Talk 3 - Python and Educational Sciences by Giel van Lankveld
 
@@ -26,4 +26,4 @@ The presentation can be found [here](link).
 Re-watch YouTube stream [here](https://youtu.be/1uHm3Ytpl64)
 
 ## Credits
-This event was set up by @pyladiesams, {Github handlers}
+This event was set up by @pyladiesams, @kittylon, @GielvanLankveld
